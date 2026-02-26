@@ -1,4 +1,4 @@
-!<img alt>
+![image alt]()
 Hospital Data Analytics Power BI Dashboard Project
 Overview
 This project presents a complete data analytics workflow applied to hospital operations data. Using Excel for data preparation and Power BI for visualization, the project delivers an interactive dashboard that highlights patient flow, diagnosis trends, bed occupancy, doctor feedback, and financial performance. The goal is to demonstrate practical skills in data cleaning, modeling, and visualization while producing a portfolio-ready deliverable.
